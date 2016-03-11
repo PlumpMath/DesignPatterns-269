@@ -1,0 +1,6 @@
+c:\users\angela\documents\visual studio 2015\Projects\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+c:\users\angela\documents\visual studio 2015\Projects\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+c:\users\angela\documents\visual studio 2015\Projects\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+c:\users\angela\documents\visual studio 2015\Projects\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+c:\users\angela\documents\visual studio 2015\Projects\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+c:\users\angela\documents\visual studio 2015\Projects\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb
