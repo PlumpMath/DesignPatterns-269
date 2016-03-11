@@ -1,0 +1,6 @@
+c:\users\jat\documents\visual studio 2015\Projects\FacedePattern\FacedePattern\bin\Debug\FacedePattern.exe.config
+c:\users\jat\documents\visual studio 2015\Projects\FacedePattern\FacedePattern\bin\Debug\FacedePattern.exe
+c:\users\jat\documents\visual studio 2015\Projects\FacedePattern\FacedePattern\bin\Debug\FacedePattern.pdb
+c:\users\jat\documents\visual studio 2015\Projects\FacedePattern\FacedePattern\obj\Debug\FacedePattern.csprojResolveAssemblyReference.cache
+c:\users\jat\documents\visual studio 2015\Projects\FacedePattern\FacedePattern\obj\Debug\FacedePattern.exe
+c:\users\jat\documents\visual studio 2015\Projects\FacedePattern\FacedePattern\obj\Debug\FacedePattern.pdb
