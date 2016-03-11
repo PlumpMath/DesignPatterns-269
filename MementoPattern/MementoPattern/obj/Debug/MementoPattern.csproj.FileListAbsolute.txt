@@ -1,0 +1,6 @@
+c:\users\jat\documents\visual studio 2015\Projects\MementoPattern\MementoPattern\bin\Debug\MementoPattern.exe.config
+c:\users\jat\documents\visual studio 2015\Projects\MementoPattern\MementoPattern\bin\Debug\MementoPattern.exe
+c:\users\jat\documents\visual studio 2015\Projects\MementoPattern\MementoPattern\bin\Debug\MementoPattern.pdb
+c:\users\jat\documents\visual studio 2015\Projects\MementoPattern\MementoPattern\obj\Debug\MementoPattern.csprojResolveAssemblyReference.cache
+c:\users\jat\documents\visual studio 2015\Projects\MementoPattern\MementoPattern\obj\Debug\MementoPattern.exe
+c:\users\jat\documents\visual studio 2015\Projects\MementoPattern\MementoPattern\obj\Debug\MementoPattern.pdb
